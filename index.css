@@ -1,0 +1,25 @@
+body{
+    background-color:#000000;
+    text-align:justify;
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+    font-style:normal;
+    font-size:medium;
+    font-weight:bold;
+}
+
+fieldset{
+    border-style:dotted;
+width:auto;
+height:fit-content;
+font-display:inherent;
+color:#f0f8ff;
+text-align:justify;
+color:#f0f8ff;
+font-stretch:expanded;
+    padding:0;
+margin:20px;
+}
+
+footer{
+    text-align:right;
+}

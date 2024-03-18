@@ -1,0 +1,38 @@
+body{background-color:#000000;
+text-align:left;
+text-overflow:inherit;
+}
+
+em{   color:aliceblue}
+
+p{color:#f0f8ff; container:inherit;}
+
+footer{color:f0f8ff;
+padding-right: 20px;
+text-align:end}
+
+h2{
+    text-align: justify;
+    color:#dc143c
+}
+textarea{
+    container-type:normal;
+    border:bolder;
+    width: 150px;
+    height:auto;
+    animation-duration:20s;
+    inset-inline-start:inherit;
+    grid-auto-rows: minmax(20);
+    text-indent: 0%;
+    text-emphasis:initial ;
+    text-wrap:wrap;
+    text-transform: capitalize;
+    text-decoration: wavy;
+    text-align-last: center;
+    text-shadow: #dc143c;
+    text-anchor: start;
+    text-orientation: upright;
+
+}
+
+
