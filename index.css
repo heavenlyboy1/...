@@ -23,3 +23,20 @@ margin:20px;
 footer{
     text-align:right;
 }
+
+b{
+    font-weight:bolder;
+    font-size:medium;
+    color:aliceblue;
+    text-align:justify;
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+    font-display:var(text-anchor);
+}
+
+section{
+    font-weight: bold;
+    font-size:medium;
+    color:aliceblue;
+    text-align:justify;
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+}

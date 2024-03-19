@@ -1,0 +1,26 @@
+body{
+    background-color:#000000;
+    text-align:justify;
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+    font-style:normal;
+    font-size:medium;
+    font-weight:bold;
+    color:#f0f8ff;
+}
+
+footer{
+    text-align:right;
+}
+
+u{
+    text-align:justify;
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+    font-style:normal;
+    font-size:medium;
+    font-weight:lighter;
+    font-display:unset;
+}
+
+.i{
+    font-weight: lighter;
+}
