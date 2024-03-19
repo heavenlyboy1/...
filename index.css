@@ -40,3 +40,31 @@ section{
     text-align:justify;
     font-family:Verdana, Geneva, Tahoma, sans-serif;
 }
+
+script{
+        background-color:#000000;
+        text-align:justify;
+        font-family:Verdana, Geneva, Tahoma, sans-serif;
+        font-style:normal;
+        font-size:medium;
+        font-weight:bold;
+    }
+
+    p{
+        font-weight:bolder;
+        font-size:medium;
+        color:aliceblue;
+        text-align:justify;
+        font-family:Verdana, Geneva, Tahoma, sans-serif;
+        font-display:var(text-anchor);
+    }
+    
+q{
+    font-weight:bolder;
+    font-size:medium;
+    color:aliceblue;
+    text-align:center;
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+    font-display:var(text-anchor);
+    padding-right:50lvh ;
+}
