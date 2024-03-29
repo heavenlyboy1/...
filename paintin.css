@@ -1,0 +1,24 @@
+body{
+    color:#f0f8ff;
+    background-color:#000000;
+
+}
+
+img{
+    height:170px;
+    width:170;
+    image-resolution:initial;
+    image-orientation:from-image;
+    image-rendering: crisp-edges;
+    border-image:round;
+    list-style-image: initial;
+    border-image-slice: inherit;
+}
+
+footer{
+    text-align:center;
+}
+
+nav{
+    text-align:justify;
+}

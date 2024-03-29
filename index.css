@@ -1,70 +1,39 @@
-body{
-    background-color:#000000;
-    text-align:justify;
-    font-family:Verdana, Geneva, Tahoma, sans-serif;
-    font-style:normal;
-    font-size:medium;
-    font-weight:bold;
-}
-
-fieldset{
-    border-style:dotted;
-width:auto;
-height:fit-content;
-font-display:inherent;
-color:#f0f8ff;
-text-align:justify;
-color:#f0f8ff;
-font-stretch:expanded;
-    padding:0;
-margin:20px;
-}
-
-footer{
-    text-align:right;
-}
-
-b{
-    font-weight:bolder;
-    font-size:medium;
-    color:aliceblue;
-    text-align:justify;
-    font-family:Verdana, Geneva, Tahoma, sans-serif;
-    font-display:var(text-anchor);
-}
-
-section{
+body {
+    background-color: #000000;
+    text-align: justify;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-style: normal;
+    font-size: medium;
     font-weight: bold;
-    font-size:medium;
-    color:aliceblue;
-    text-align:justify;
-    font-family:Verdana, Geneva, Tahoma, sans-serif;
 }
 
-script{
-        background-color:#000000;
-        text-align:justify;
-        font-family:Verdana, Geneva, Tahoma, sans-serif;
-        font-style:normal;
-        font-size:medium;
-        font-weight:bold;
-    }
+fieldset {
+    border-image: round;
+    mask-border: inherit;
+    border-style: none;
+    width: auto;
+    height: fit-content;
+    font-display: inherit;
+    color: #000000;
+    text-align: justify;
+    font-stretch: expanded;
+    padding: 0;
+    margin: 20px;
+    background-color: indigo;
+}
 
-    p{
-        font-weight:bolder;
-        font-size:medium;
-        color:aliceblue;
-        text-align:justify;
-        font-family:Verdana, Geneva, Tahoma, sans-serif;
-        font-display:var(text-anchor);
-    }
-    
-q{
-    font-weight:bolder;
-    font-size:medium;
-    color:aliceblue;
-    text-align:center;
-    font-family:Verdana, Geneva, Tahoma, sans-serif;
-    font-display:var(text-anchor);
-    padding-right:50lvh ;
+footer {
+    text-align: right;
+}
+
+b, section, script, p, q {
+    font-weight: bolder;
+    font-size: medium;
+    color: aliceblue;
+    text-align: justify;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+q {
+    padding-right: 50px;
 }
