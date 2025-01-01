@@ -1,0 +1,32 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Signup</title>
+  <link rel="stylesheet" href="style.css">
+  <link href="main.html">
+</head>
+<body>
+  <h2>Signup Form</h2>
+  <form id="signupForm">
+    <label for="name">Name:</label><br>
+    <input type="text" id="signupName" name="name" required><br><br>
+    
+    <label for="password">Password:</label><br>
+    <input type="password" id="signupPassword" name="password" maxlength="8" minlength="=6" placeholder="********" required><br><br>
+
+
+    <label for="email">Email:</label><br>
+    <input type="email" id="SignupEmail" name="Email" placeholder="Email" required><br><br>
+    
+    <button type="submit">Sign Up</button>
+  </form>
+  <p id="signupMessage" style="display:none; color:rgb(2, 53, 2);">Signup successful! Proceed to <a href="login.html">login</a>.</p>
+  <script src="script.js"></script>
+
+  <footer>
+    All rights reserved &copy; 2024
+   </footer>
+</body>
+</html>

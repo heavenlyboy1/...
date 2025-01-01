@@ -1,0 +1,38 @@
+body{
+    background-color: darkgoldenrod;
+    color:red;
+    font-display:unset;
+    display: run-in;
+    rotate:inherit;
+    font:bolder;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+
+}
+
+.links a{
+   margin:152.5px;
+   color:rgb(59, 59, 165);
+}
+
+nav{
+    color:#000000;
+    margin:289px;
+    text-overflow: ellipsis;
+    border:20px;
+    text-align: center;
+    text-rendering: geometricPrecision;
+}
+
+hr{
+    border-width: 20px;
+    container:inherit;
+    container-type:normal;
+    align-content:flex-end;
+    border-color:rgb(124, 108, 102)
+}
+
+footer{
+    margin:80px;
+    text-align: right;
+    color:darkblue;
+  }

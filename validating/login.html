@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Login</title>
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+  <h2>Login Form</h2>
+  <form id="loginForm">
+    <label for="name">Name:</label><br>
+    <input type="text" id="loginName" name="name" required><br><br>
+    
+    <label for="password">Password:</label><br>
+    <input type="password" id="loginPassword" name="password" maxlength="8" minlength="6" placeholder="********" required><br><br>
+    
+    <button type="submit">Login</button>
+  </form>
+  <p id="loginMessage" style="display:none; color:purple;">Name or password invalid <a href="signup.html">signup</a></p>
+  <script src="script.js"></script>
+
+  <footer>
+    All rights reserved &copy; 2024
+   </footer>
+</body>
+</html>

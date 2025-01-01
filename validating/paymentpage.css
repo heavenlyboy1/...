@@ -1,0 +1,43 @@
+body{
+    color:azure;
+    background-color:#000000;
+}
+
+nav{
+    margin:25px;
+    padding-right:0px;
+    padding-left: 0;
+    padding-top:1px;
+    padding-inline:inherit;
+}
+
+hr{
+    border-color:darkblue;
+    border-width: 48px;
+    text-emphasis: none;
+    text-align: start;
+}
+
+.vertical-line{
+    width:inherit;
+    height:415px;
+    background-color:darkblue;
+    display:grid;
+    position:relative;
+}
+
+.links a{
+    color:aliceblue;
+    margin:1px;
+}
+
+.link a{
+    color:aliceblue;
+    margin:15px;
+}
+
+footer{
+    margin:80px;
+    text-align: right;
+    color:darkblue;
+  }

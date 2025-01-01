@@ -1,0 +1,51 @@
+body{
+    color:magenta;
+    background-color: black;
+    font-size: medium;
+    font-weight: bold;
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+    font: caption;
+}
+
+.links a{
+    margin:98.5px;
+    color:rgb(164, 164, 241);
+}
+
+ .welcome{
+    text-align: center;
+    margin-right: 8px;
+    color:blanchedalmond;
+}
+
+footer{
+    text-align: right;
+    margin:90px;
+    color:cornflowerblue;
+}
+
+
+fieldset{
+text-align:center;
+text-overflow:ellipsis;
+
+}
+
+hr{
+    border-bottom: 23px;
+    border-width:100px;
+    border-style:groove;
+    border-color:blueviolet;
+    background-position: 67px;
+    background-color: blue;
+    transition: cubic-bezier(0.215, 0.610, 0.355, 1);
+}
+
+.container {
+    border-width: 20px;
+    font-display:inherit;
+    font-size: medium;
+    border: 34px;
+    margin:100px;
+background-color: violet;
+}
